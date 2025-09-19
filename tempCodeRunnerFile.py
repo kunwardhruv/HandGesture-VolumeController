@@ -1,0 +1,2 @@
+volume.GetMute()
+# volume.GetMasterVolumeLevel()
