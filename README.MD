@@ -13,6 +13,20 @@ This project uses **OpenCV**, **Mediapipe**, and **Pycaw** to track your hand an
 
 ---
 
+---
+### Folder Structure 
+
+Hand Gesture
+│
+├── handtrackingmin.py
+├── handtrackingmodule.py
+├── mynewgameHandtracking.py
+├── README.md
+└── volumehandcontrol.py
+
+---
+
+
 ## 📂 Setup
 1. Clone the repository:
    ```bash
@@ -20,9 +34,9 @@ This project uses **OpenCV**, **Mediapipe**, and **Pycaw** to track your hand an
    cd HandGesture-VolumeController
 
 Run the project:
-python hand_volume.py
+python volumehandcontrol.py
 
-
+```
 
 🛠️ Tech Stack
 
