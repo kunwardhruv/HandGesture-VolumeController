@@ -13,8 +13,8 @@ This project uses **OpenCV**, **Mediapipe**, and **Pycaw** to track your hand an
 
 ---
 
----
-### Folder Structure 
+```
+Folder Structure 
 
 Hand Gesture
 │
@@ -23,7 +23,7 @@ Hand Gesture
 ├── mynewgameHandtracking.py
 ├── README.md
 └── volumehandcontrol.py
-
+```
 ---
 
 
