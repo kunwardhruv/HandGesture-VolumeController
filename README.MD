@@ -33,13 +33,13 @@ HandGesture
    git clone https://github.com/kunwardhruv/HandGesture-VolumeController.git
    cd HandGesture
 
-
-Run the project:
-python volumehandcontrol.py
-
 ```
+---
+## Run the project:
+python volumehandcontrol.py
+---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
