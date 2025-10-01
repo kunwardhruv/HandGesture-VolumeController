@@ -32,8 +32,8 @@ HandGesture
    ```bash
    git clone https://github.com/kunwardhruv/HandGesture-VolumeController.git
    cd HandGesture
-```
-```
+
+
 Run the project:
 python volumehandcontrol.py
 
